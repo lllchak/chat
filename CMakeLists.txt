@@ -10,4 +10,4 @@ add_executable (CMakeTugle main.cc)
 
 target_link_libraries (CMakeTugle tugle)
 
-install (TARGETS CMakeTugle DESTINATION bin)
+install (TARGETS tugle DESTINATION bin)

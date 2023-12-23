@@ -4,5 +4,5 @@ add_library (
   dummy.cc
 )
 
-install (TARGETS osnn DESTINATION bin)
+install (TARGETS tugle DESTINATION bin)
 install (FILES dummy.hh DESTINATION include)
